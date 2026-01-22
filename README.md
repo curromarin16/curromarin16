@@ -1,16 +1,35 @@
-## Hi there 👋
+ Soy Francisco(Curro) Marín
 
-<!--
-**curromarin16/curromarin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Desarrollador full-stack con formación en DAM (Desarrollo de Aplicaciones Multiplataforma) y curso de especificación en Desarrollo de Apps en Python.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías a destacar con las que me siento cómodo
+
+🔹 Java 
+🔹 Python
+🔹 BDD(Oracle, MySQL,Postgre, SQLServer)  
+🔹 C#
+🔹 **Git & GitHub**
+
+
+
+-- Proyectos destacables:
+
+* WeatherWay (TFG de DAM)
+- App móvil con mapas, recomendaciones según clima y favoritos  
+- Manual disponible dentro del repo (PDF)  
+- https://github.com/curromarin16/TFG_DAM_WeatherWay
+
+* Otros proyectos
+- Dragon_Ball_App – (Java)  
+- API_Superheroes_FranciscoMarin- (Kotlin)  
+
+
+---
+
+* Contacto
+
+- Correo: curromarinmurcia@gmail.com
+- LinkedIn: www.linkedin.com/in/francisco-marín-14a712395 
+
+
