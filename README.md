@@ -3,7 +3,7 @@
 -Desarrollador full-stack con formación en DAM (Desarrollo de Aplicaciones Multiplataforma) y curso de especificación en Desarrollo de Apps en Python.
 
 
-## Tecnologías a destacar con las que me siento cómodo
+## Tecnologías a destacar:
 
 🔹 Java 
 🔹 Python
